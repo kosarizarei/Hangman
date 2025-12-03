@@ -28,11 +28,11 @@ This is a simple yet fun word-guessing game written in Python, enhanced with pla
     ```
 2. Make sure you have Python 3 installed:
 
-  python --version
+     python --version
 
 3. Run the game:
 
-python hangman.py
+   python hangman.py
 
 ## 📦 Requirements
 - Python 3.x
