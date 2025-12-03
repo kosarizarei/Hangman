@@ -14,6 +14,7 @@ This is a simple yet fun word-guessing game written in Python, enhanced with pla
 ---
 
 ## 📂 Project Structure
+
 ```
 ├── Hangman.py       # Main game script               
 ├── words.json       # Word categories and lists
@@ -42,6 +43,7 @@ This is a simple yet fun word-guessing game written in Python, enhanced with pla
 - Python 3.x
 - A words.json file containing categories and word lists.
 - Example structure:
+
 ```json
 {
   "categories": {
@@ -103,6 +105,3 @@ This project is licensed under the MIT License.
 You are free to use, modify, and distribute this code, but it comes without warranty.
 
 ---
-
-
-
