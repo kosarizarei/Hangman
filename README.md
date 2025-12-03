@@ -56,7 +56,7 @@ This is a simple yet fun word-guessing game written in Python, enhanced with pla
 
 If the words.json file is missing, the program will show a message with a link to download it directly from GitHub:
 Please download words file from the GitHub repository.
-link: https://raw.githubusercontent.com/kosarizarei/hangman-game/main/words.json
+link: https://raw.githubusercontent.com/kosarizarei/Hangman/main/words.json
 This link points to the raw file so you can save it directly
 
 ---
