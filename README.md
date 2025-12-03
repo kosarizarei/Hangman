@@ -37,14 +37,15 @@ This is a simple yet fun word-guessing game written in Python, enhanced with pla
 ## 📦 Requirements
 - Python 3.x
 - A words.json file containing categories and word lists.
-Example structure:
-
+-Example structure:
+```json
 {
   "categories": {
     "animals": ["cat", "dog", "elephant"],
     "fruits": ["apple", "banana", "cherry"]
   }
 }
+```
 
 ## 📥 Missing File Notice
 
