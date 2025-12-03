@@ -15,10 +15,11 @@ This is a simple yet fun word-guessing game written in Python, enhanced with pla
 
 ## 📂 Project Structure
 ```
-├── hangman.py       # Main game script               
+├── Hangman.py       # Main game script               
 ├── words.json       # Word categories and lists
 └── README.md        # Project documentation
 ```
+---
 
 ## 🚀 How to Run
 1. Clone the repository:
@@ -27,12 +28,15 @@ This is a simple yet fun word-guessing game written in Python, enhanced with pla
    cd Hangman
     ```
 2. Make sure you have Python 3 installed:
-
-     python --version
+   ```bash
+   python --version
+   ```
 
 3. Run the game:
-
+   ```bash
    python hangman.py
+   ```
+---
 
 ## 📦 Requirements
 - Python 3.x
@@ -46,6 +50,7 @@ This is a simple yet fun word-guessing game written in Python, enhanced with pla
   }
 }
 ```
+---
 
 ## 📥 Missing File Notice
 
@@ -54,11 +59,15 @@ Please download words file from the GitHub repository.
 link: https://raw.githubusercontent.com/kosarizarei/hangman-game/main/words.json
 This link points to the raw file so you can save it directly
 
+---
+
 ## 🎯 Gameplay
 - Select a category by typing its name or number.
 - Guess letters one by one.
 - You have 6 chances before the game ends.
 - Win by revealing all letters of the hidden word!
+
+---
 
 ## 🖼 Demo
 ```
@@ -75,20 +84,25 @@ _ _ _ _ _ _
 😁 Guess a letter: A
 Wrong guesses: []
 ```
+---
 
 ## 📌 Notes
 - If words.json is missing, the program will prompt you to download or create one.
 - You can expand categories to make the game more challenging.
 
+---
+
 ## 🤝 Contributing
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this code, but it comes without warranty.
 
-
+---
 
 
 
