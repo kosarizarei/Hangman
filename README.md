@@ -62,6 +62,7 @@ This link points to the raw file so you can save it directly
 - Win by revealing all letters of the hidden word!
 
 ## 🖼 Demo
+```
 ⁘⁘⁘ Welcome to the Hangman game ⁘⁘⁘
 
 Available categories:
@@ -74,7 +75,7 @@ _ _ _ _ _ _
 
 😁 Guess a letter: A
 Wrong guesses: []
-
+```
 
 ## 📌 Notes
 - If words.json is missing, the program will prompt you to download or create one.
