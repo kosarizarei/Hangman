@@ -12,7 +12,7 @@ try:
         words = json.load(f)
 except FileNotFoundError:
     print("Please download words file on links below. ")
-    print("link: ")
+    print("link:https://raw.githubusercontent.com/kosarizarei/Hangman/refs/heads/main/words.json ")
     exit()
 
 def choose_hidden_word():
@@ -86,4 +86,5 @@ for i in range(10**2):
         break
 else:
     print(f"😢 You can't geuss '{hidden_word}'!? That was the word.")
+
 
