@@ -14,13 +14,11 @@ This is a simple yet fun word-guessing game written in Python, enhanced with pla
 ---
 
 ## 📂 Project Structure
-
+```
 ├── hangman.py       # Main game script               
 ├── words.json       # Word categories and lists
 └── README.md        # Project documentation
-
-
----
+```
 
 ## 🚀 How to Run
 1. Clone the repository:
